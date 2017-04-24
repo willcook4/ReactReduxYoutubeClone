@@ -1,5 +1,5 @@
 # Redux and React Youtube Clone
-This was done in in following the Udemy tutorial series by Stephen Grider. [More info](https://www.udemy.com/react-redux/). 
+This was done in in following the Udemy tutorial series by Stephen Grider. [More info](https://www.udemy.com/react-redux/).
 
 ### Getting Started
 
@@ -10,7 +10,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/willcook4/ReactReduxYoutubeClone.git
-> cd ReduxSimpleStarter
+> cd ReactReduxYoutubeClone
 > npm install
 > npm start
 ```
